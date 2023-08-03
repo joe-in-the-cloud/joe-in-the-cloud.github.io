@@ -136,21 +136,21 @@ body {
 }
 
 .contactButton {
-  color: #fff;
+  color: #036;
   font-size: 23px;
   font-weight: 500;  
-  background-color: #036;
+  background-color: #fff;
   padding: 11px 70px;
   display: inline-block;
   margin-top: 20px;
   border-radius: 30px;
+  border: 3px solid #036;
 }
 
 .contactButton:hover {
   text-decoration: none;
-  color: #036;
-  background-color: #fff;
-  border: 3px solid #036;
+  color: #fff;
+  background-color: #036;
 }
 
 .filter a {
