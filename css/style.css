@@ -151,6 +151,7 @@ body {
   text-decoration: none;
   color: #fff;
   background-color: #036;
+  border: 3px solid #036;
 }
 
 .filter a {
