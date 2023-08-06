@@ -402,16 +402,16 @@ h6 {
 
 p {
   font-weight: 500;
-  font-size: x-large;
+  font-size: large;
   color: #424242;
 }
 ul {
-  font-size: x-large;
-  font-weight: 500;
+  font-size: large;
+  font-weight: 400;
 }
 li  {
-  font-size: x-large;
-  font-weight: 500;
+  font-size: large;
+  font-weight: 400;
 }
 
 .material-icons {
