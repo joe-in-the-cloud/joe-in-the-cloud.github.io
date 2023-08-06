@@ -374,8 +374,6 @@ div#navbarNav.collapse.navbar-collapse {
   height: 100%;
   background: url(../img/loader.gif) center center no-repeat;
   background-color: #191f26;
-  -webkit-transform: scaleX(-1);
-  transform: scaleX(-1);
 }
 
 div.skill {
@@ -404,12 +402,12 @@ h6 {
 
 p {
   font-weight: 500;
-  font-size: medium;
+  font-size: large;
   color: #424242;
 }
 
 li  {
-  font-size: medium;
+  font-size: large;
   font-weight: 500;
 }
 
